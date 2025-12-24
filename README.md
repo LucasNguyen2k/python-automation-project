@@ -1,3 +1,4 @@
+![CI](https://github.com/LucasNguyen2k/python-automation-project/actions/workflows/ci.yml/badge.svg)
 # Python Automation – Crypto Price Reporting
 
 ## Overview
