@@ -29,22 +29,22 @@ python-automation-project/
 ├── tests/
 └── README.md
 
-Installation
+## Installation
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 python -m pip install -r requirements.txt
 
-Usage
+## Usage
 python -m src.main --coin bitcoin --currency usd --output reports
 
 
-Outputs:
+## Outputs:
 
 reports/prices.csv
 
 reports/prices.json
 
-Testing
+## Testing
 pytest
 
 
